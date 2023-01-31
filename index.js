@@ -23,3 +23,5 @@ function typewriter(nodes, speed = 200) {
 document.addEventListener("DOMContentLoaded", () => {
   typewriter(document.querySelectorAll("h1,p,li,a,span"), 20);
 });
+
+//hej mor//
